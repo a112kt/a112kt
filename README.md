@@ -35,8 +35,6 @@ I love building clean UIs, smooth user experiences, and scalable apps.
 
 🚀 Featured Projects
 
-(هضيفهم لما تبعتي اللينكات)
-
 🛒 Furniture E-Commerce (React + .NET + SQL)
 
 📱 To-Do App with Animations (React Native)
