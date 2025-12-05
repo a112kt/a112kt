@@ -15,23 +15,13 @@ I'm a passionate Frontend Developer specializing in React.js, and a Mobile Appli
 <br/><br/>
 
 📱 What I Build
-
 ✔ Modern Frontend Websites with React
 ✔ Mobile Apps using React Native
 ✔ Reusable UI components
 ✔ REST API integrations
 ✔ Smooth animations (React Native Reanimated / Moti)
 
-📊 GitHub Stats
 
-🚀 Featured Projects
 
-🛒 Furniture E-Commerce (React + .NET + SQL)
 
-📱 To-Do App with Animations (React Native)
 
-🍔 Local Brand Marketplace App (Mobile + AI)
-
-🎯 Let's Build Something Great!
-
-If you need a frontend or mobile developer, feel free to connect ✨
